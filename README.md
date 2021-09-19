@@ -1,2 +1,0 @@
-# bytacharya.github.io
-Blog
