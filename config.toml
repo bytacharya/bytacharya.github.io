@@ -1,4 +1,4 @@
-baseurl = "https://bytacharya.ml/"
+baseurl = "https://bytacharya.github.io/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
