@@ -1,4 +1,4 @@
-baseurl = "bytacharya.com"
+baseurl = "https://bytacharya.com"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
