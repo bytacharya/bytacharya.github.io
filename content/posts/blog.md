@@ -3,5 +3,5 @@ title: "Blog"
 
 
 ---
-Under Development.
+Under Development
 
